@@ -1,0 +1,12 @@
+[{
+  "app": "UpcAiPc1",
+  "version": "1.0.0",
+  "message": "Respuesta JSON desde archivo fijo",
+  "timestamp": "2026-04-25T00:00:00Z"
+},
+{
+  "app": "UpcAiPc2",
+  "version": "1.0.0",
+  "message": "Respuesta JSON desde archivo fijo",
+  "timestamp": "2026-04-25T00:00:00Z"
+}]-------WRONG------

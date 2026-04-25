@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/UpcAiPc1.Application/UpcAiPc1.Application.csproj" />
+    <Project Path="src/UpcAiPc1.Domain/UpcAiPc1.Domain.csproj" />
+    <Project Path="src/UpcAiPc1.Infrastructure/UpcAiPc1.Infrastructure.csproj" />
+    <Project Path="src/UpcAiPc1.Web/UpcAiPc1.Web.csproj" />
+  </Folder>
+</Solution>
